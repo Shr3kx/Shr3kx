@@ -14,3 +14,15 @@ I’m constantly experimenting, so there’s always something in progress (and w
 I’m currently exploring AI-enhanced development, intelligent automation, full-stack architecture, and building polished UI/UX with modern tooling.
 
 If you want to see how I work (or steal some inspiration 😄), feel free to explore my GitHub.
+
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card">
+  <img height="190" align="center" alt="GitHub Stats" 
+    src="https://github-readme-stats-tau-nine-81.vercel.app/api?username=Shr3kx&show_icons=true&custom_title=GitHub+Statistics&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a"/>
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card">
+  <img width="345" align="center" alt="Top Language" 
+    src="https://github-readme-stats-tau-nine-81.vercel.app/api/top-langs/?username=Shr3kx&layout=compact&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a"/>
+</a>
+</div>
